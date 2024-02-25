@@ -20,3 +20,4 @@ Las plataformas de secuenciación masiva más comunes son Illumina, Ion Torrent 
 almacenadas en archivos fastq. 
 
 Si quieres conocer más sobre el proceso de la secuenciación masiva, visita el video que te dejamos en el siguiente link 😆
+https://www.youtube.com/watch?v=p9vSvJKUyRE 
