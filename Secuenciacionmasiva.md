@@ -1,4 +1,4 @@
-#Secuenciación masiva
+# Secuenciación masiva
 También conocida como secuenciación de nueva generación son estrategias nuevas que han surgido debido a la necesidad de realizar secuenciaciones a gran escala, así como para acortar tiempos y costos.
 
 Existen distintas técnicas de secuenciación de nueva generación que utilizan diferentes tecnologías. Sin embargo, la mayoría comparte características como:
