@@ -7,6 +7,12 @@ Recordando la definición de Linux de [la carpeta de conceptos, unidad 1](https:
  * **GNU** : 1983 por Riichard Stallman. Similar a Unix con distribución libre
  * **Linux**: 1991 por Linus Torvalds, es un núcleo colaborativo con herramientas GNU de acceso libre.
 
-## Instalación de Linux
+## ¿Cómo ingreso al Shell?
+1. Si tienes MacOS o Linux solo busca **Terminal** e ingresa a esta.
+2. Si tu computadora tiene **Windows**, puedes instalar un editor de código en este caso, usaremos [Visual Studio Code](https://code.visualstudio.com/) 
+Al ingresar, abrimos un panel alterno, el cuál abre la terminal directamente.
+
+Posteriormente, descargas la extensión  Git-bash.
+
 
  
