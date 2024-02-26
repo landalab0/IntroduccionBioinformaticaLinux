@@ -89,6 +89,21 @@ Hay que poner **mkdir** seguido de un espacio y luego el nombre del directorio a
 
 **` rm - r + nombre del archivo o directorio`** para eliminar
 
+**` grep`** permite navegar entre archivos sin tener que abrirlos
+
+**` wc`** cuenta la cantidad de palabras, líneas y carácteres de un archivo`**
+
+**`nano`** es un editor de texto, con este comando podemos crear un archivo y escribir en él
+
+ * Ej.   nano README.txt
+
+Después de estar satisfechos con lo que escribimos podemos presionar **Ctrl + O + enter**  para guardar 
+
+Para salir de nano presiona **Ctrl + X + enter** 
+
+
+
+
 
 
 
