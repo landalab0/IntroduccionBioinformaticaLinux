@@ -40,14 +40,34 @@ Interfaz de línea de comandos que permite a los usuarios interactuar con un sis
 
 Puede aparecer de esta forma en  tu ordenador o en el editor de código que utilizarás.(¿Cómo accedo a  Shell?)
 
-Ahora que ya conocemos estos conceptos súper importantes, los pasaremos a la práctica, pues el primer paso es acceder al Shell.
+Ahora que ya conocemos estos conceptos súper importantes, es importante conocer sobre la **secuenciación masiva** 
 
-### ¿Cómo accedo a Shell?
-Si cuentas con una máquina Mac o Linux, puedes acceder por el programa llamado Terminal.  Pues está disponible en la computadora. 
-En caso que utilices Windows, será necesario descargar u obtener un programa por separado, en este caso, optamos por descargar Visual Studio Code. 
+# Secuenciación masiva 🧬 
+También conocida como secuenciación de nueva generación son estrategias nuevas que han surgido debido a la necesidad de realizar secuenciaciones a gran escala, así como para acortar tiempos y costos.
 
+Existen distintas técnicas de secuenciación de nueva generación que utilizan diferentes tecnologías. Sin embargo, la mayoría comparte características como:
+-  Altamente paralelas: ocurren muchas reacciones de secuenciación al mismo tiempo.
+-  Microescala: las reacciones son diminutas y se pueden hace mucgas a la vez en un chip.
+-   Rápidas: como las reacciones se realizan en paralelo, los resultados están listos más rápido.
+-   Bajo costo: menor costo que la secuenciación de Sanger.
+-  Longitudes más cortas: las lecturas se obtenien con fragmentos de entre 50-700 nucleótidos de longitud.
 
-Posterior a la instalación, la página inicial se ve de esta forma, por lo que, el segundo paso es mostrar la terminal e instalar la extensión.
+Un experimento de secuenciación masiva consta de 4 etapas principales: 
+1. La extracción del ADN de la muestra o aislado.
+2. La preparación de las bibliotecas o librerías.
+3. La secuenciación.
+4. El análisis bioinformático e interpretación de los resultados.
+
+La bioinformática es importante para las secuenciaciones ya que se necesita utilizar herramientas computaciones para poder realizar el aliniamiento de las secuencias
+y posteriormente generar una base de datos con las variantes obtenidas.
+Las plataformas de secuenciación masiva más comunes son Illumina, Ion Torrent y PacBio. Las lecturas obtenidas en las secuenciaciones son
+almacenadas en archivos fastq. 
+
+Si quieres conocer más sobre el proceso de la secuenciación masiva, visita el video que te dejamos en el siguiente link 😆
+https://www.youtube.com/watch?v=p9vSvJKUyRE 
+
+Después de conocer estos conceptos, los los pasaremos a la práctica en la [unidad 2]()
+
 
 ### Referencias
 1. Bayat A. 2002. Science, medicine, and the future: Bioinformatics. BMJ (Clinical research ed.). 324(7344), 1018–1022. 
