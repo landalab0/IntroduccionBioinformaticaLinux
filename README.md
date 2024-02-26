@@ -24,7 +24,7 @@ En el caso que sea **Windows**, va a constar de una instalación de algunos prog
 **Una cuenta en Github** (Si estás leyendo esto, seguramente ya estás registradx)🤪.
 
 ## Contenido
-
+ 
  Dividiremos este curso en la parte teórica y práctica. En este **repositorio** , el contenido se encuentra dividido en carpetas que son **unidades.**
 A su vez, encontrarás la carpeta **"Troubles”** que contiene sugerencias, resoluciones y explicaciones a situaciones que experimentamos en el desarrollo del curso y que posiblemente también te puedes encontrar.❗❗
 
