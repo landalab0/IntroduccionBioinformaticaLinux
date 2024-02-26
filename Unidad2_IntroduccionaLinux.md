@@ -1,3 +1,6 @@
+## Contenido de la unidad
+La primera sección coniste en un repaso sobre la definición de Linux y sobre su creación.
+Posteriormente, realizaremos la instalación o bien, el acceso al Shell.
 # Linux
 Recordando la definición de Linux de [la carpeta de conceptos, unidad 1](https://github.com/landalab0/IntroduccionBioinformaticaLinux/blob/main/Unidad1_conceptos.md)
  Los sistemas operativos más usados son Windows, Linux, MacOS y Android.
