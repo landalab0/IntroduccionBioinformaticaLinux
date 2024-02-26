@@ -52,7 +52,7 @@ Para repetir comandos que se ejecutaron anteriormente, se puede usar ⬆️ o �
 
 **`cat`** para imprimir en pantalla el contenido de un archivo.
 
-*  Ej.   cat JC1A_R2.fastq 
+     cat JC1A_R2.fastq 
 
 
 **`less + nombre del archivo`** abre el archivo en modo lectura y podrás navegar en él.
@@ -97,7 +97,7 @@ Hay que poner **mkdir** seguido de un espacio y luego el nombre del directorio a
 
 **`nano`** es un editor de texto, con este comando podemos crear un archivo y escribir en él
 
- * Ej.   nano README.txt
+     nano README.txt
 
 Después de estar satisfechos con lo que escribimos podemos presionar **Ctrl + O + enter**  para guardar 
 
