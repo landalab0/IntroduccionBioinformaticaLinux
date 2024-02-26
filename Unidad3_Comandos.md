@@ -1,8 +1,10 @@
 # Conoce los comandos ⌨️
-Empezaremos a familiarizarnos con los comandos que necesitaremos para trabajar.
+Empezaremos a familiarizarnos con los comandos básicos que necesitaremos para trabajar.
 
 Para saber en donde nos encontramos utilizaremos el comando **`pwd`**
 *     pwd
+
+**`cd`**      nos lleva al directorio home
 
 **`ls`** nos muestra la lista de contenido de un directorio
 
