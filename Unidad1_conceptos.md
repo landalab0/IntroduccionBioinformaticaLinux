@@ -64,7 +64,7 @@ almacenadas en archivos fastq.
 Si quieres conocer más sobre el proceso de la secuenciación masiva, visita el video que te dejamos en el siguiente link 😆
 https://www.youtube.com/watch?v=p9vSvJKUyRE 
 
-Después de conocer estos conceptos, los los pasaremos a la práctica en la [unidad 2]()
+⏩Después de conocer estos conceptos, laccederemos al Shell en la [unidad 2](https://github.com/landalab0/IntroduccionBioinformaticaLinux/blob/main/Unidad2_Acceso.md)
 
 
 ### Referencias
