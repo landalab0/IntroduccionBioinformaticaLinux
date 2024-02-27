@@ -15,13 +15,18 @@ Los **objetivos específicos** son:
 
 ## Dinámica del curso
 
-👀 **¿Qué necesito?** 👀
+👀** ¿Qué necesito?** 👀
 
 Necesitas una **computadora** (No iPad, tablet o celular, por fis, a menos que sea para que leas la parte teórica, de lo contrario será incomodísimo) que cuente con un Sistema Operativo (SO)  Mac, Linux **(De preferencia)** o **Windows.**
 
 En el caso que sea **Windows**, va a constar de una instalación de algunos programas que te enseñaremos más adelante.
 
 **Una cuenta en Github** (Si estás leyendo esto, seguramente ya estás registradx)🤪.
+
+### Descargar archivos 
+
+Los datos y archivos que utilizaremos, los encuentras en el Workshop de Data Carpentry, este contiene: *tres muestras de sedimentos de Cuatro Ciénegas con sus correspondientes fichas de asignación taxonómica.*  [Descargar datos aqui](https://zenodo.org/records/7010950)
+
 
 ## Contenido
  
