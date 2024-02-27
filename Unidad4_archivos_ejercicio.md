@@ -6,6 +6,9 @@ Aplicaremos los conceptos vistos previamente en un ejercicio que reúne algunos 
 
 Los datos y archivos que utilizaremos, los encuentras en el Workshop de Data Carpentry, este contiene: *tres muestras de sedimentos de Cuatro Ciénegas con sus correspondientes fichas de asignación taxonómica.*  [Descargar datos aqu+i](https://zenodo.org/records/7010950)
 
+
+###   Ejercicio 1
+
 1. [ ] Crea un nuevo directorio con el nombre de "Taller1" dentro del directorio *taxonomy* 
 2. [ ] Ir al directorio recién creado.
 3. [ ] Crea un archivo de texto con el nombre *"README.md"*
@@ -15,3 +18,4 @@ Los datos y archivos que utilizaremos, los encuentras en el Workshop de Data Car
 7. [ ] Copiar el archivo **"JC1A_R1.fastq"** y cambiar el nombre a **"prueba"**
 8. [ ] Eliminar el archivo ***"JC1A_R1.fastq"*** de la carpeta ***untrimmed_fastq***
                
+###   Ejercicio 2
