@@ -19,7 +19,7 @@ Recordando la definición de Linux de [la carpeta de conceptos, unidad 1](https:
 2.3 En la terminal, ejecutamos la extensión ![Imagen de WhatsApp 2024-02-26 a las 14 43 23_48f63d70](https://github.com/landalab0/IntroduccionBioinformaticaLinux/assets/160525027/c821c8d2-e2fb-44fa-823e-bc483866367b)
 
 
-⏩Ahora sí, podemos iniciar la [unidad 3](https://github.com/landalab0/IntroduccionBioinformaticaLinux/blob/bca22c1c83e52de4a7252c1a9f8a99e59d05b20a/Unidad3_Comandos.md) donde conoceremos los **conmandos** que usaremos.
+⏩Ahora sí, podemos iniciar la [unidad 3](https://github.com/landalab0/IntroduccionBioinformaticaLinux/blob/bca22c1c83e52de4a7252c1a9f8a99e59d05b20a/Unidad3_Comandos.md) donde conoceremos los **comandos** que usaremos.
 
 
  
