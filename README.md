@@ -31,8 +31,6 @@ Los datos y archivos que utilizaremos, los encuentras en el Workshop de Data Car
 ## Contenido
  
  Dividiremos este curso en la parte teórica y práctica. En este **repositorio** , el contenido se encuentra dividido en carpetas que son **unidades.**
-A su vez, encontrarás la carpeta **"Troubles”** que contiene sugerencias, resoluciones y explicaciones a situaciones que experimentamos en el desarrollo del curso y que posiblemente también te puedes encontrar.❗❗
-
 De igual forma, en cada sección (además de la **carpeta “Videos”**)  encontrarás videos que han sido de ayuda  o que pueden ayudarte a retroalimentar lo que estás aprendiendo.
 
 
