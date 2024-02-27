@@ -14,14 +14,18 @@ Recordando la definición de Linux de [la carpeta de conceptos, unidad 1](https:
 ## ¿Cómo ingreso al Shell?
 
 1. Si tienes MacOS o Linux solo busca **Terminal** e ingresa a esta.
-2. Si tu computadora tiene **Windows**, puedes instalar un editor de código en este caso, usaremos [Visual Studio Code](https://code.visualstudio.com/) el cuál puedes **descargar** en el enlace anterior.
+   
+### Instalación en Windows 
 
+2. Si tu computadora tiene  el S.O. **Windows**, puedes instalar un editor de código, en este caso, usaremos [Visual Studio Code](https://code.visualstudio.com/) el cuál puedes **descargar** en el enlace anterior.
    
   2.1 Dentro de la página de VS Code, puedes **instalar** el editor de código. 
 ![image](https://github.com/landalab0/IntroduccionBioinformaticaLinux/assets/160525027/b4a109b1-bdb2-48a3-88ef-06e9356fe3dc)
 
 2.2 Ejecutas la instalación del programa en tu computadora y aceptamos los T & C del software.
 ![image](https://github.com/landalab0/IntroduccionBioinformaticaLinux/assets/160525027/38c21871-2ab0-4eb5-8e0e-6f929a2c0ddb)
+
+### Acceso al Shell desde VS Code
 
  3. Al ingresar, abrimos un *panel alterno*, el cuál abre la terminal directamente.![Imagen de WhatsApp 2024-02-26 a las 14 32 36_e961e4cd](https://github.com/landalab0/IntroduccionBioinformaticaLinux/assets/160525027/4819e4ed-20de-45e4-8ad0-d50797d6fb6e)
    
