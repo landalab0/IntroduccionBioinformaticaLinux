@@ -1,10 +1,14 @@
+# Conoce los comandos ⌨️
+
+
 ## Diagrama  de organización de archivos
 
 ![image](https://github.com/landalab0/IntroduccionBioinformaticaLinux/assets/160525027/539c9c88-8b8a-4b46-a6bf-b185b71b712a)
 
 Este diagrama es importante para entender la organización de nuestros archivos. 
 
-# Conoce los comandos ⌨️
+## Comandos básicos
+
 Empezaremos a familiarizarnos con los comandos básicos que necesitaremos para trabajar.
 
 Para saber en donde nos encontramos utilizaremos el comando **`pwd`**
