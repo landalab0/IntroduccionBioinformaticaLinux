@@ -34,11 +34,9 @@ Abreviación de Bourne Again Shell. Es un tipo especial de Shell. También es un
 
 Se puede usar Bash en la mayoría de sistemas operativos Linux y OS abriendo una terminal.
 
-   - **💻Terminal** :
-Interfaz de línea de comandos que permite a los usuarios interactuar con un sistema informático mediante la entrada y ejecución de comandos de texto.
+En general, el shell puede aparecer de esta forma en  tu ordenador o en el editor de código que utilizarás. 
+![image](https://github.com/landalab0/IntroduccionBioinformaticaLinux/assets/160525027/43ca7d68-3750-4ff4-8334-d48901651729)
 
-
-Puede aparecer de esta forma en  tu ordenador o en el editor de código que utilizarás.(¿Cómo accedo a  Shell?)
 
 Ahora que ya conocemos estos conceptos súper importantes, es importante conocer sobre la **secuenciación masiva** 
 
