@@ -15,7 +15,7 @@ Los **objetivos específicos** son:
 
 ## Dinámica del curso
 
-👀** ¿Qué necesito?** 👀
+👀 **¿Qué necesito?** 👀
 
 Necesitas una **computadora** (No iPad, tablet o celular, por fis, a menos que sea para que leas la parte teórica, de lo contrario será incomodísimo) que cuente con un Sistema Operativo (SO)  Mac, Linux **(De preferencia)** o **Windows.**
 
