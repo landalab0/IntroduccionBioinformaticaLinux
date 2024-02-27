@@ -113,7 +113,6 @@ Los datos y archivos que utilizaremos, los encuentras en el Workshop de Data Car
 
 
 ###   Ejercicio 1
-
 [ ] Crea un nuevo directorio con el nombre de "Taller1" dentro del directorio *taxonomy* 
 [ ] Ir al directorio recién creado.
 [ ] Crea un archivo de texto con el nombre *"README.md"*
