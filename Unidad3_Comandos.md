@@ -83,7 +83,7 @@ Hay que poner **mkdir** seguido de un espacio y luego el nombre del directorio a
 
 **`mv`** para mover archivos
 
-*     Ej. mc JC1A_R2- copy.fastq backup
+*     Ej. mv JC1A_R2- copy.fastq backup
 
 **`mv`** también sirve para cambiar el nombre de los archivos
 
