@@ -1,6 +1,3 @@
-### Descargar archivos 
-
-Los datos y archivos que utilizaremos, los encuentras en el Workshop de Data Carpentry, este contiene: *tres muestras de sedimentos de Cuatro Ciénegas con sus correspondientes fichas de asignación taxonómica.*  [Descargar datos aqu+i](https://zenodo.org/records/7010950)
 
 
 # Conoce los comandos ⌨️
