@@ -28,7 +28,7 @@ Para acceder a carpetas con espacio en el nombre, colocamos cd + el nombre de la
 **`ls-f`** poner / al final del nombre de carpetas (directorios)
 
 Si sabes la dirección, pones **`cd`** y la dirección con /
-*      Ej. cd dc_workshop/data/untrimmed_fastq
+  *     cd dc_workshop/data/untrimmed_fastq
 
 **`ls-l`** para mostrar los detalles de los archivos 
 
