@@ -42,7 +42,7 @@ fastq.gz-> la gz significa que es un archivo comprimido
 **`gunzip`** para descomprimir archivos
 
 **` * `** es un carácter llamado comodín (funciona como una n) 
-      Ej. *fastq -> mostrará todos los archivos que terminan en .fastq
+       *fastq -> mostrará todos los archivos que terminan en .fastq
 
 **ls * .fastq** enumera sólo el archivo que termina en fastq
 
@@ -93,13 +93,13 @@ Hay que poner **mkdir** seguido de un espacio y luego el nombre del directorio a
 
 **`mv`** para mover archivos
 
-*     Ej. mv JC1A_R2- copy.fastq backup
+*      mv JC1A_R2-copy.fastq backup
 
 **`mv`** también sirve para cambiar el nombre de los archivos
 
-*   Ej.  mv JC1A_R2-copy.fastq JC1A_R2-backup.fastq
+*     mv JC1A_R2-copy.fastq JC1A_R2-backup.fastq
 
-**` rm - r + nombre del archivo o directorio`** para eliminar
+**` rm -r + nombre del archivo o directorio`** para eliminar
 
 **` grep`** permite navegar entre archivos sin tener que abrirlos
 
