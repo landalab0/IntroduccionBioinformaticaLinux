@@ -24,17 +24,17 @@ Para saber en donde nos encontramos utilizaremos el comando **`pwd`**
 
 **`cd ..`** para regresar
 
-**`cd ../../..`** para surbir/regresar más de un nivel
+**`cd ../../..`** para subir/regresar más de un nivel
 
 Para acceder a carpetas con espacio en el nombre, colocamos cd + el nombre de la carpeta en comillas  
 *      cd "nombre de la carpeta"
 
-**`ls-f`** poner / al final del nombre de carpetas (directorios)
+**`ls -f`** poner / al final del nombre de carpetas (directorios)
 
 Si sabes la dirección, pones **`cd`** y la dirección con /
   *     cd dc_workshop/data/untrimmed_fastq
 
-**`ls-l`** para mostrar los detalles de los archivos 
+**`ls -l`** para mostrar los detalles de los archivos 
 
 **`FASTQ`** es un formato para almacenar información sobre lecturas de secuenciación y su calidad.
 fastq.gz-> la gz significa que es un archivo comprimido 
@@ -44,7 +44,7 @@ fastq.gz-> la gz significa que es un archivo comprimido
 **` * `** es un carácter llamado comodín (funciona como una n) 
       Ej. *fastq -> mostrará todos los archivos que terminan en .fastq
 
-**ls*R1.fastq** enumera sólo el archivo que termina en R1.fastq
+**ls * .fastq** enumera sólo el archivo que termina en fastq
 
 Para repetir comandos que se ejecutaron anteriormente, se puede usar ⬆️ o ⬇️ para avanzar en el historial.
 
