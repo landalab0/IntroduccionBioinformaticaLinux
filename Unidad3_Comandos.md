@@ -44,7 +44,7 @@ fastq.gz-> la gz significa que es un archivo comprimido
 **` * `** es un carácter llamado comodín (funciona como una n) 
        *fastq -> mostrará todos los archivos que terminan en .fastq
 
-**ls * .fastq** enumera sólo el archivo que termina en fastq
+**ls *.fastq** enumera sólo el archivo que termina en fastq
 
 Para repetir comandos que se ejecutaron anteriormente, se puede usar ⬆️ o ⬇️ para avanzar en el historial.
 
