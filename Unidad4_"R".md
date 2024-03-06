@@ -15,6 +15,10 @@ R está especializado en informática estadística y gráfica.
 - R funciona con datos de todos los colores y tamaños.
 - ¡R es gratis!
 
+## ¿Qué es R Studio?
+
+RStudio es un entorno de desarrolllo integrado (IDE por sus siglas en inglés) para R, que facilita la tarea de uso interactivo de R y la programación de scripts. Proporciona una iinterfaz de usuario amigable que facilita la escritura, depurado y la visualización de código R. 
+
 ## Y si aún no tengo R?🥲
 No te preocupes, solo seguiremos unos cuantos pasos para poder instalarlo. 
 
@@ -23,5 +27,27 @@ https://www.r-project.org/
 
 Después podremos descargar R Studio:
 https://posit.co/download/rstudio-desktop/
+
+## Descubriendo RStudio
+
+Después de instalar RStudio, podemos abrirlo y lo que nos encontraremos son cuatro páneles de trabajo.
+1. Consola: se encuentra en la esquina inferiror izquierda: es el lugar en donde R está esperando a que le digas que hacer. En ella se puede escribir, ejecutar código y ver los resultados de lo que se va ejecutando.
+2. Editor de código: ubicado en la esquina superior izquierda. En este panel se abren los archivos en pestañas.
+
+
+## Tener un diálogo con R
+
+Existen dos formas con las que podemos interactuar con R en RStudio:
+- Usando la consola.
+- Creación y edición de archivos de script.
+
+La **consola** es en donde se pueden escribir y ejecutar comandos inmediatamente, asímismo aquí se mostraran los resultados de los comandos ejecutados.
+
+Si R está listo para aceptar comandos, la consola mostrará el "**>**" mensaje. Puedes escribir instrucciones directamente en la consola y presionar **Enter**, pero se olvidarán cuando cierre la sesión. 
+
+
+
+
+
 
 
