@@ -15,6 +15,13 @@ R está especializado en informática estadística y gráfica.
 - R funciona con datos de todos los colores y tamaños.
 - ¡R es gratis!
 
+## Y si aún no tengo R?🥲
+No te preocupes, solo seguiremos unos cuantos pasos para poder instalarlo. 
 
+Primero instalaremos R:
+https://www.r-project.org/
+
+Después podremos descargar R Studio:
+https://posit.co/download/rstudio-desktop/
 
 
