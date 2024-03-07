@@ -23,7 +23,14 @@ RStudio es un entorno de desarrolllo integrado (IDE por sus siglas en inglés) p
 No te preocupes, solo seguiremos unos cuantos pasos para poder instalarlo. 
 
 Primero instalaremos R:
-https://www.r-project.org/
+ https://cran.rstudio.com/
+
+ Entraremos al link y seleccionaremos la descarga para nuestro sistema operativo.
+
+ ![Pink and beige Data Visualization Basics modern presentation](https://github.com/landalab0/IntroduccionBioinformaticaLinux/assets/160524982/fafc53fa-095f-4cee-8238-1073f1a77324)
+
+Cuando lo hayamos elegido seleccionaremos la opción *intall R for the first time* y después lo podremos descargar.
+
 
 Después podremos descargar R Studio:
 https://posit.co/download/rstudio-desktop/
