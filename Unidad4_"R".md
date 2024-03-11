@@ -68,6 +68,17 @@ Hay 5 tipos de datos en RStudio
 - Lógicos (logical): True or False
 - Caracteres (character)
 
+
+R provee varias funciones para examinar las características de los objetos que creamos.
+
+**class()** : ¿qué tipo de objeto es?
+
+**typeof()** : ¿qué tipo de dato es?
+
+**length()** : ¿de que tamaño es (vectores y listas)?
+
+**attributes()** : ¿tiene el objeto algún metadato?
+
 ## Estructuras de datos
 Existen diferentes maneras de organizar los datos en R llamados **estructuras de datos**.
 
