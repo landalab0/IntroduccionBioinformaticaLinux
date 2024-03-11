@@ -85,7 +85,7 @@ Existen diferentes maneras de organizar los datos en R llamados **estructuras de
 Las colecciones o conjunto de datos en R se organizan por su dimensión (1, 2, o varias dimensiones) y si son homogéneas (todos los objetos deben ser del mismo tipo) o heterogéneas ( el contenido puede ser de diferentes tipos).Las más utilizadas son:
 
 | Dimensión  |   Homogénea   |   Heterogénea  |
------------------------------------------------
+| -----------|---------------|----------------|
 |     1      |     Vector    |     Lista      | 
 |     2      |     Matriz    |   Data Frame   |
 |     n      |     Array     |                |
