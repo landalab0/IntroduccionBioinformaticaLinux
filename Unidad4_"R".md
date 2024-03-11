@@ -52,7 +52,28 @@ La **consola** es en donde se pueden escribir y ejecutar comandos inmediatamente
 
 Si R está listo para aceptar comandos, la consola mostrará el "**>**" mensaje. Puedes escribir instrucciones directamente en la consola y presionar **Enter**, pero se olvidarán cuando cierre la sesión. 
 
+Sabemos que los humanos olvidamos muchas cosas, por lo tanto, es importante hacer anotaciones para no olvidar. En en el caso de R, podemos hacer comentarios poniendo  "**#**" antes del texto, y con esto podríamos recordarr porque escribimos un comando en nuestro script.
 
+
+**getwd** nos mostrará el directorio de trabajo
+
+## Tipos de datos
+
+Hay 5 tipos de datos en RStudio
+- Numérico (numeric o double)
+- Enteros (integer)
+- Lógicos (logical): True or False
+- Caracteres (character)
+
+## Estructuras de datos
+Existen diferentes maneras de organizar los datos en R llamados **estructuras de datos**.
+
+La estructura de datos más simple es el vector, que es una secuencia de datos del mismo tipo. Podemos crear un vestor usando la función "**c()**" .
+
+"> char_vector <- c("a", "a", "b", "b", "c", "c")"
+" > typeof(char_vector) "
+
+  
 
 
 
