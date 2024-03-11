@@ -91,7 +91,7 @@ Las colecciones o conjunto de datos en R se organizan por su dimensión (1, 2, o
 |     n      |     Array     |                |
 
 
-### Vector
+### 🟢 Vector
 
 La estructura de datos más simple es el vector, que es una secuencia de datos del mismo tipo. Podemos crear un vestor usando la función "**c()**" que signifca concatenar o combinar.
 
@@ -104,7 +104,7 @@ La estructura de datos más simple es el vector, que es una secuencia de datos d
 
        [1] "character"
 
-### Factor
+### 🟡 Factor
 
 El factor es una estructura más compleja, que contiene los nombres de categorías (llamadas niveles) y una secuencia de las ocurrencias de esas categorías.
 
@@ -139,7 +139,7 @@ Podemos ver los niveles de los factores y la secuencia de números. Cada número
 
 Los factores son la mejor manera para organizar datos categóricos.
 
-### Data Frame
+### 🔵 Data Frame
 
 Es una estructura de datos bidimensional similar a una matriz, pero funciona distinto.
 
