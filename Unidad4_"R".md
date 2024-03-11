@@ -75,14 +75,14 @@ R provee varias funciones para examinar las características de los objetos que 
 
 **typeof()** : ¿qué tipo de dato es?
 
-**length()** : ¿de que tamaño es (vectores y listas)?
+**length()** : ¿de que tamaño es (cuantos elementos tienen los vectores y listas)?
 
 **attributes()** : ¿tiene el objeto algún metadato?
 
 ## Estructuras de datos
 Existen diferentes maneras de organizar los datos en R llamados **estructuras de datos**.
 
-Las colecciones o conjunto de datos en R se organizan por su dimensión (1, 2, o varias dimensiones) y si son homogéneas (todos los objetos deben ser del mismo tipo) o heterogéneas ( el contenido puede ser de diferentes tipos).Las más utilizadas son:
+Las colecciones o conjunto de datos en R se organizan por su  dimensión (1, 2, o varias dimensiones) y si son homogéneas (todos los objetos deben ser del mismo tipo) o heterogéneas ( el contenido puede ser de diferentes tipos).Las más utilizadas son:
 
 | Dimensión  |   Homogénea   |   Heterogénea  |
 | -----------|---------------|----------------|
@@ -138,10 +138,22 @@ Podemos ver los niveles de los factores y la secuencia de números. Cada número
     [1] "integer"
 
 Los factores son la mejor manera para organizar datos categóricos.
+### 🟣 Lista
+
+A diferencia de una vector, la lista es el conjunto de elementos de distinto tipo.
+
+Se crean con la función **list** 
+
+### 🟠 Matriz
+
+Es una estructura bidimensional.
+
+La función **matrix()** permite crear matrices
 
 ### 🔵 Data Frame
 
-Es una estructura de datos bidimensional similar a una matriz, pero funciona distinto.
+Es una estructura de datos bidimensional similar a una matriz, pero funciona distinto. Un data frame es una lista de vectores de la misma longitud, permite tipos de datos mixtos. Esto permite almacenar diferentes tipos de variables.
+
 
 
 
