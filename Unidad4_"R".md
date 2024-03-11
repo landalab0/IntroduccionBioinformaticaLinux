@@ -82,7 +82,18 @@ R provee varias funciones para examinar las características de los objetos que 
 ## Estructuras de datos
 Existen diferentes maneras de organizar los datos en R llamados **estructuras de datos**.
 
-La estructura de datos más simple es el vector, que es una secuencia de datos del mismo tipo. Podemos crear un vestor usando la función "**c()**".
+Las colecciones o conjunto de datos en R se organizan por su dimensión (1, 2, o varias dimensiones) y si son homogéneas (todos los objetos deben ser del mismo tipo) o heterogéneas ( el contenido puede ser de diferentes tipos).Las más utilizadas son:
+
+| Dimensión  |   Homogénea   |   Heterogénea  |
+-----------------------------------------------
+|     1      |     Vector    |     Lista      | 
+|     2      |     Matriz    |   Data Frame   |
+|     n      |     Array     |                |
+
+
+### Vector
+
+La estructura de datos más simple es el vector, que es una secuencia de datos del mismo tipo. Podemos crear un vestor usando la función "**c()**" que signifca concatenar o combinar.
 
 *Input*
 
@@ -92,6 +103,8 @@ La estructura de datos más simple es el vector, que es una secuencia de datos d
 *Output*
 
        [1] "character"
+
+### Factor
 
 El factor es una estructura más compleja, que contiene los nombres de categorías (llamadas niveles) y una secuencia de las ocurrencias de esas categorías.
 
@@ -125,6 +138,11 @@ Podemos ver los niveles de los factores y la secuencia de números. Cada número
     [1] "integer"
 
 Los factores son la mejor manera para organizar datos categóricos.
+
+### Data Frame
+
+Es una estructura de datos bidimensional similar a una matriz, pero funciona distinto.
+
 
 
 
