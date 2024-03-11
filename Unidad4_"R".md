@@ -19,7 +19,7 @@ R está especializado en informática estadística y gráfica.
 
 RStudio es un entorno de desarrolllo integrado (IDE por sus siglas en inglés) para R, que facilita la tarea de uso interactivo de R y la programación de scripts. Proporciona una iinterfaz de usuario amigable que facilita la escritura, depurado y la visualización de código R. 
 
-## Y si aún no tengo R?🥲
+## ¿Y si aún no tengo R?🥲
 No te preocupes, solo seguiremos unos cuantos pasos para poder instalarlo. 
 
 Primero instalaremos R:
@@ -146,13 +146,16 @@ Se crean con la función **list**
 
 ### 🟠 Matriz
 
-Es una estructura bidimensional.
+Es una estructura bidimensional con filas y columnas, donde todos los elementos son del mismo tipo.
 
 La función **matrix()** permite crear matrices
 
 ### 🔵 Data Frame
 
 Es una estructura de datos bidimensional similar a una matriz, pero funciona distinto. Un data frame es una lista de vectores de la misma longitud, permite tipos de datos mixtos. Esto permite almacenar diferentes tipos de variables.
+Cada columna puede contener distintos tipos de datos
+#Seeking help
+
 
 
 
