@@ -25,12 +25,11 @@ No te preocupes, solo seguiremos unos cuantos pasos para poder instalarlo.
 Primero instalaremos R:
  https://cran.rstudio.com/
 
- Entraremos al link y seleccionaremos la descarga para nuestro sistema operativo.
+Entraremos al link y seleccionaremos la descarga para nuestro sistema operativo.
 
  ![Pink and beige Data Visualization Basics modern presentation](https://github.com/landalab0/IntroduccionBioinformaticaLinux/assets/160524982/fafc53fa-095f-4cee-8238-1073f1a77324)
 
 Cuando lo hayamos elegido seleccionaremos la opción *intall R for the first time* y después lo podremos descargar.
-
 
 Después podremos descargar R Studio:
 https://posit.co/download/rstudio-desktop/
@@ -60,7 +59,11 @@ Sabemos que los humanos olvidamos muchas cosas, por lo tanto, es importante hace
 ## Tipos de datos
 
 Hay 5 tipos de datos en RStudio
-- Numérico (numeric o double)
+- Numérico (numeric o double): numeros enteros como decimales.
+
+      > x <- 5
+      > y <- 3.14
+
 - Enteros (integer)
 - Lógicos (logical): True or False
 - Caracteres (character)
@@ -68,13 +71,49 @@ Hay 5 tipos de datos en RStudio
 ## Estructuras de datos
 Existen diferentes maneras de organizar los datos en R llamados **estructuras de datos**.
 
-La estructura de datos más simple es el vector, que es una secuencia de datos del mismo tipo. Podemos crear un vestor usando la función "**c()**" .
+La estructura de datos más simple es el vector, que es una secuencia de datos del mismo tipo. Podemos crear un vestor usando la función "**c()**".
 
-"> char_vector <- c("a", "a", "b", "b", "c", "c")"
-" > typeof(char_vector) "
+*Input*
 
-  
+       > char_vector <- c("a", "a", "b", "b", "c", "c")
+       > typeof(char_vector)
 
+*Output*
+
+       [1] "character"
+
+El factor es una estructura más compleja, que contiene los nombres de categorías (llamadas niveles) y una secuencia de las ocurrencias de esas categorías.
+
+*Input*
+       > char_factor <- as.factor(char_vector)
+       > char_factor
+
+*Output*
+
+        [1] a a b b c c
+        Levels: a b c
+        
+Y si queremos sabwe la estructura de este objeto, pondríamos:
+
+*Input*
+
+       > str(char_factor)
+
+*Output*
+
+    Factor w/ 3 levels "a","b","c": 1 1 2 2 3 3
+    
+Podemos ver los niveles de los factores y la secuencia de números. Cada número representa un  nivel, y esta secuencia contiene la información sobre qué va en cada posición. Por eso obtendremos un "entero" si preguntamos por el tipo de datos del objeto.
+
+*Input*
+
+    > typeof(char_factor)
+
+*Output*
+
+    [1] "integer"
+
+Los factores son la mejor manera para organizar datos categóricos.
 
 
 
