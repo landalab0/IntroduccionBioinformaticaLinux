@@ -38,8 +38,9 @@ https://posit.co/download/rstudio-desktop/
 
 Después de instalar RStudio, podemos abrirlo y lo que nos encontraremos son cuatro páneles de trabajo.
 1. Consola: se encuentra en la esquina inferiror izquierda: es el lugar en donde R está esperando a que le digas que hacer. En ella se puede escribir, ejecutar código y ver los resultados de lo que se va ejecutando.
-2. Editor de código: ubicado en la esquina superior izquierda. En este panel se abren los archivos en pestañas.
-
+2.  Editor de código: ubicado en la esquina superior izquierda. En este panel se abren los archivos en pestañas.
+3. Environment/History: 
+4. Files/Plots/Packages/Help:
 
 ## Tener un diálogo con R
 
@@ -64,10 +65,26 @@ Hay 5 tipos de datos en RStudio
       > x <- 5
       > y <- 3.14
 
-- Enteros (integer)
+- Enteros (integer): Representa números enteros
+  
+      > typeof(5L)
+      [1] "integer"
+  
 - Lógicos (logical): True or False
-- Caracteres (character)
 
+      > typeof(addition == subtraction)
+      [1] "logical"
+       
+- Caracteres (character):   Secuencias de caracteres, como texto. Los caracteres representan variables cualitativas, en R todo texto debe estar escrito entre comillas ("" o ’’).
+
+       > result <- "4 and 3 are not the same on Earth. On Mars maybe... "
+       > typeof(result)
+       [1] "character"
+  
+- Complejos: Números complejos con partes real e imaginaria.
+  
+      > typeof(72+5i)
+      [1] "complex"
 
 R provee varias funciones para examinar las características de los objetos que creamos.
 
@@ -144,17 +161,52 @@ A diferencia de una vector, la lista es el conjunto de elementos de distinto tip
 
 Se crean con la función **list** 
 
+
+     lista <- list(nombre = "Juan", edad = 30, casado = TRUE)
+
+
 ### 🟠 Matriz
 
 Es una estructura bidimensional con filas y columnas, donde todos los elementos son del mismo tipo.
 
 La función **matrix()** permite crear matrices
 
+#Crear una matriz
+
+    matriz <- matrix(1:6, nrow = 2, ncol = 3)
+
+
+           [,1] [,2] [,3]
+    [1,]    1    3    5
+    [2,]    2    4    6
+
+
+
 ### 🔵 Data Frame
 
 Es una estructura de datos bidimensional similar a una matriz, pero funciona distinto. Un data frame es una lista de vectores de la misma longitud, permite tipos de datos mixtos. Esto permite almacenar diferentes tipos de variables.
-Cada columna puede contener distintos tipos de datos
-#Seeking help
+Cada columna puede contener distintos tipos de datos.
+
+#Crear un data frame
+
+*Input*
+
+      df <- data.frame(
+      nombre = c("Juan", "María", "Pedro"),
+      edad = c(30, 25, 35),
+       casado = c(TRUE, FALSE, TRUE)
+
+
+#Ver el data frame
+      
+      print(df)
+
+  nombre edad casado
+1   Juan   30   TRUE
+2  María   25  FALSE
+3  Pedro   35   TRUE
+
+#Seeking help 
 
 
 
