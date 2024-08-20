@@ -15,7 +15,8 @@ Para saber en donde nos encontramos utilizaremos el comando **`pwd`**
 *     pwd
 
 **`cd`**      nos lleva al directorio home
-
+*     cd
+  
 **`ls`** nos muestra la lista de contenido de un directorio
 
 *      ls                            
