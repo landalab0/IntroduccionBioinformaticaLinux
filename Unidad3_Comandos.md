@@ -114,6 +114,11 @@ Después de estar satisfechos con lo que escribimos podemos presionar **Ctrl + O
 
 Para salir de nano presiona **Ctrl + X + enter** 
 
+*     gunzip + "nombre archivo"
+para leer:
+*            cat
+para volver a comprimir: 
+*       gzip
 
 ## Aplicación💾
 Aplicaremos los conceptos vistos previamente en una secuencia de pasos que reúne algunos de los comandos que nos van a ayudar en el trabajo que realizaremos en el shell. Los pasos a seguir están ordenados en forma de lista.
