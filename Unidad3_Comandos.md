@@ -114,6 +114,7 @@ Después de estar satisfechos con lo que escribimos podemos presionar **Ctrl + O
 
 Para salir de nano presiona **Ctrl + X + enter** 
 
+Para descomprimir:
 *     gunzip + "nombre archivo"
 para leer:
 *            cat
