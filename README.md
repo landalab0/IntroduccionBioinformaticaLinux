@@ -1,7 +1,7 @@
 # Introducción a bioinformática con Linux
 ¡Hola! 👋Este es un curso de **LANDALAB**  dirigido a todas las personas que este sea su primer acercamiento a la bioinformática, dónde podrás aprender sobre conceptos básicos de la bioinformática, así como llevar este procedimiento a cabo mediante el programa de Linux, a su vez, se recopila información del taller de metagenómica, realizado por [Data Carpentry.](https://carpentries-lab.github.io/metagenomics-workshop/)
 
-**LANDALAB:** A cargo de la doctora Mirna Vazquez Rosas-Landa, investigadora del Instituto de Ciencias del Mar y Limnología.
+**LANDALAB:** A cargo de la doctora Mirna Vazquez Rosas-Landa, investigadora del Instituto de Ciencias del Mar 
 
 ## Objetivos
 
