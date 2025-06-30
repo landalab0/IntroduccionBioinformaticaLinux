@@ -7,11 +7,17 @@
 
 Este diagrama es importante para entender la organización de nuestros archivos. 
 
+El signo de dólares es un *prompt*, nos muestra que la terminal está esparando para un input.
+
+ ``` bash 
+ $
+ ```
+
 ## Comandos básicos
 
 Empezaremos a familiarizarnos con los comandos básicos que necesitaremos para trabajar.
 
-Para saber en donde nos encontramos utilizaremos el comando **`pwd`**
+Para saber en donde nos encontramos utilizaremos el comando **`pwd`** 
 *     pwd
 
 **`cd`**      nos lleva al directorio home
@@ -49,6 +55,12 @@ fastq.gz-> la gz significa que es un archivo comprimido
 
 Para repetir comandos que se ejecutaron anteriormente, se puede usar ⬆️ o ⬇️ para avanzar en el historial.
 
+O puedes usar el comando **` history `** para ver una lista de los comandos que has usado recientemente.
+
+Si te interesa alguno en particular, puedes escribir:
+
+**`!`** (número de comando) 
+
 `Atajos:` 
 
 **`ctrl + c`**   cancela lo que estás escribiendo y da un mensaje nuevo
@@ -57,9 +69,6 @@ Para repetir comandos que se ejecutaron anteriormente, se puede usar ⬆️ o �
 
 **` ctrl + L `** o **`clear`** borrará la pantalla
 
-**` history `** para revisar comandos recientes
-
-**`!`** (número de comando)
 
 **`cat`** para imprimir en pantalla el contenido de un archivo.
 
@@ -92,9 +101,17 @@ Para repetir comandos que se ejecutaron anteriormente, se puede usar ⬆️ o �
 **` mkdir`** para crear un directorio 
 Hay que poner **mkdir** seguido de un espacio y luego el nombre del directorio a crear
 
-**`mv`** para mover archivos
+**`cp`** nos ayuda a copiar archivos
 
-*      mv JC1A_R2-copy.fastq backup
+ ``` bash 
+ cp JC1A_R2.fastq JC1A_R2-copy.fastq
+ ls -F
+ ```
+
+
+**`mv`** para mover archivos -> Moveremos JC1A_R2-copy.fastq a backup
+
+*      mv JC1A_R2-copy.fastq backup    
 
 **`mv`** también sirve para cambiar el nombre de los archivos
 
