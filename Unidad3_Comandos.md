@@ -151,7 +151,7 @@ Aplicaremos los conceptos vistos previamente en una secuencia de pasos que reún
 - [ ] Copiar el archivo **"JC1A_R1.fastq"** y cambiar el nombre a **"prueba"**
 - [ ] Eliminar el archivo **"prueba"** de la carpeta ***untrimmed_fastq***
                
-
+Para ver la solución del ejercicio, entra [aquí](https://github.com/landalab0/IntroduccionBioinformaticaLinux/blob/main/solucion.md)
 
 
 
