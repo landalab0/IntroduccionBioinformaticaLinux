@@ -141,15 +141,15 @@ para volver a comprimir:
 ## Aplicación💾
 Aplicaremos los conceptos vistos previamente en una secuencia de pasos que reúne algunos de los comandos que nos van a ayudar en el trabajo que realizaremos en el shell. Los pasos a seguir están ordenados en forma de lista.
 
-###   Ejercicio 1
+###   Ejercicios
 - [ ] Crea un nuevo directorio con el nombre de "Taller1" dentro del directorio *taxonomy* 
 - [ ] Ir al directorio recién creado.
 - [ ] Crea un archivo de texto con el nombre *"README.md"*
 - [ ] Entra a **README.md** y escribe el nombre del taller.
-- [ ] Dirígete al directorio *Data* y a la carpeta ***untrimmed_fastq***
-- [ ] Descomprimir los archivos de la carpeta con el comando  ***gunzip***
+- [ ] Dirígete al directorio *data* y a la carpeta ***untrimmed_fastq***
+- [ ] Descomprime los archivos de la carpeta con el comando  ***gunzip***
 - [ ] Copiar el archivo **"JC1A_R1.fastq"** y cambiar el nombre a **"prueba"**
-- [ ] Eliminar el archivo ***"JC1A_R1.fastq"*** de la carpeta ***untrimmed_fastq***
+- [ ] Eliminar el archivo **"prueba"** de la carpeta ***untrimmed_fastq***
                
 
 
